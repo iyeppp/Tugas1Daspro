@@ -2,10 +2,9 @@ program nomor3;
 uses crt;
 
 var 
-    nama : string;
+    nama, alamat : string;
     nim : Longint;
     kom : char;
-    alamat : string;
 
 begin
     clrscr;
