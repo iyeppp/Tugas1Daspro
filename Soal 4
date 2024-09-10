@@ -2,7 +2,7 @@ program nomor4;
 uses crt;
 
 var 
-    jalan, kota,no, kode_pos : string;
+    jalan, kota,no , kode_pos : string;
 
 begin
 
