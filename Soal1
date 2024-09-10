@@ -1,4 +1,4 @@
-program Soal1;
+program nomor1;
 uses crt;
 
 begin
