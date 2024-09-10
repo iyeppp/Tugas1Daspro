@@ -1,1 +1,7 @@
+program biodata;
+uses crt;
 
+begin
+    clrscr;
+    writeln('Belajar Pascal untuk Dasar Pemrograman');
+end.
