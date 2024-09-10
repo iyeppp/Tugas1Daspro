@@ -1,0 +1,19 @@
+program nomor4;
+uses crt;
+
+var 
+    jalan, kota : string;
+    no, kode_pos : integer;
+
+begin
+
+    clrscr;
+    write('Jalan    : '); readln(jalan);
+    write('No       : '); readln(no);
+    write('Kota     : '); readln(kota);
+    write('Kode Pos : '); read(kode_pos);
+
+    clrscr;
+    writeln;
+    write('Alamat: Jalan ', jalan, ' No. ', no,' ', kota, ' ', kode_pos);
+end.
