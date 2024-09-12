@@ -13,6 +13,5 @@ begin
     write('Kode Pos : '); read(kode_pos);
 
     clrscr;
-    writeln;
     write('Alamat: Jalan ', jalan, ' No. ', no,' ', kota, ' ', kode_pos);
 end.
