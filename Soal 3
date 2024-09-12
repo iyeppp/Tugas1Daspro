@@ -12,7 +12,6 @@ begin
     write('Masukkan Alamat Anda : '); read (alamat);
 
     clrscr;
-    writeln;
     writeln('Hallo, Nama saya ', nama, ', NIM saya ', nim, ',');
     writeln('saya di kom ', kom, ', alamat saya di ', alamat, '. Salam');
     write('Kenal Semua!')
